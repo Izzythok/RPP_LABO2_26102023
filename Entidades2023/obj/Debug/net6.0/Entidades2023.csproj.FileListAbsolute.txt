@@ -1,0 +1,11 @@
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\bin\Debug\net6.0\Entidades2023.deps.json
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\bin\Debug\net6.0\Entidades2023.dll
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\bin\Debug\net6.0\Entidades2023.pdb
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\Entidades2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\Entidades2023.AssemblyInfoInputs.cache
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\Entidades2023.AssemblyInfo.cs
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\Entidades2023.csproj.CoreCompileInputs.cache
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\Entidades2023.dll
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\refint\Entidades2023.dll
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\Entidades2023.pdb
+C:\Users\Rojas\OneDrive\Documentos\Proyectos C# .NET\Entidades2023\obj\Debug\net6.0\ref\Entidades2023.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FabricaDeVehiculo/1.0.0": {
+        "dependencies": {
+          "Entidades2023": "1.0.0"
+        },
+        "runtime": {
+          "FabricaDeVehiculo.dll": {}
+        }
+      },
+      "Entidades2023/1.0.0": {
+        "runtime": {
+          "Entidades2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FabricaDeVehiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
